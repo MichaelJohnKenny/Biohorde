@@ -22,14 +22,12 @@ public class Zombie : MonoBehaviour
 
     private void Awake()
     {
-        //gameCamera = GameObject.FindGameObjectWithTag("MainCamera");
         cameraShake = GameObject.FindObjectOfType<ScreenShake>() as ScreenShake;
     }
 
     void Attack(GameObject closestHuman)
     {
         //Debug.Log("attack");
-        
         closestHuman.GetComponent<Health>().Damage(attackDamage);
         attackCooldownTime = 0f;
         cameraShake.Shake(.13f, 1f, true);
