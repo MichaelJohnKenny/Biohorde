@@ -1,0 +1,1 @@
+In order to try out on your computer, go to the builds folder and download the correct version for your computer.
