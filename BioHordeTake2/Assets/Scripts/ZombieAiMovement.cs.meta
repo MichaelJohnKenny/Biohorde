@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: dc144cc88dc6e2a48850999b16687243
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - zombieMovementTarget: {fileID: 4653122179918692064, guid: a733981b0a5694c49b6c03cdb80eb75a,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

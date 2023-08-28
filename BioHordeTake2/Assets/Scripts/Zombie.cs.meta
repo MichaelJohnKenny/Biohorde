@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 83a0dd5cad8be49449b7d99fe260cbcb
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - SpawnEffect: {instanceID: 0}
+  - HumanPreFab: {fileID: 659366097163749043, guid: 0addfd90c1961fa4cbe50b9820eaa069,
+      type: 3}
+  - cameraShake: {instanceID: 0}
+  - PathFinding: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: f44bc6bcb4b36a54a81cefb1d4988622
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - humanPrefab: {fileID: 919132149155446097, guid: 2732acbb226ed7d4d80ef5c5000f1dca,
+      type: 3}
+  - HumanConversationPrefab: {fileID: 1628339862309834209, guid: 7c52ce16b02bf5c44b81cf3043e94cbb,
+      type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

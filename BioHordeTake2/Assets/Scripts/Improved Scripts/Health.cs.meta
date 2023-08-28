@@ -1,0 +1,16 @@
+fileFormatVersion: 2
+guid: 2515cf45cc8b4ee4f90bd1b5c2a70b80
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - humanScream: {fileID: 8300000, guid: 6c7d7445eeb30d14696dd70a4d25f079, type: 3}
+  - zombieDeathSound: {instanceID: 0}
+  - HumanZombiePreFab: {fileID: 9051937981627205549, guid: b750c0e3619e54d47aac6b27bb9b8f3c,
+      type: 3}
+  - hurtSound: {fileID: 8300000, guid: 3cff69ccbc9a3204e807b1946b90b67f, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
